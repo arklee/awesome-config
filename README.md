@@ -1,0 +1,3 @@
+# awesome-config
+Just a awesome .config file......
+2333
